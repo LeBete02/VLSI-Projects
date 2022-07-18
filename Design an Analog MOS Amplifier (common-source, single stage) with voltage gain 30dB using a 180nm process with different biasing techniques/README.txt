@@ -1,0 +1,1 @@
+Design an Analog MOS Amplifier (common-source, single stage) with voltage gain 30dB using a 180nm process with different biasing techniques
